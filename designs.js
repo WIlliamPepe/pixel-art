@@ -24,7 +24,7 @@ grid.addEventListener('submit',(e) => {
     can.firstElementChild.remove()
     makeGrid(x, y)
 })
-
+//change
 
 //Making the grid
 function makeGrid(x, y) {
